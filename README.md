@@ -1,3 +1,3 @@
 outher:
 <br>
-       AAMNA NAZ MUZAFAR
+AAMNA NAZ MUZAFAR
